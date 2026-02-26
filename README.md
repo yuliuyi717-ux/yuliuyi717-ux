@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm @yuliuyi717-ux
 
-<!--
-**yuliuyi717-ux/yuliuyi717-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I contribute to open-source projects with a focus on small, high-quality pull requests.
 
-Here are some ideas to get you started:
+## What I work on
+- Bug fixes with clear reproduction steps
+- Test coverage improvements
+- Developer tooling and documentation cleanup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- TypeScript and Python workflows
+- Fast review turnaround and clean PR communication
+- Repeatable delivery for bounty-friendly issues
+
+## Collaboration
+If you maintain a repo and want help on a scoped issue, feel free to open a discussion in issues.
